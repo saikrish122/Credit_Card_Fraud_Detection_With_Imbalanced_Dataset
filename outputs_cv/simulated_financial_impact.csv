@@ -1,0 +1,9 @@
+Metric,Amount
+Total fraud transaction amount,47410.1
+Correctly detected fraud amount,30409.839999999997
+Missed fraud amount,17000.260000000002
+Potential prevented loss,24327.872
+Alert review cost,1460.0
+Additional false-alert cost,0.0
+Estimated cost with model,24542.228
+Estimated net savings versus no detection,22867.872
